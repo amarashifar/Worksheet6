@@ -1,0 +1,11 @@
+Script started on 2022-10-17 22:42:31-04:00
+bash: /home/amirali/.bashrc: line 12: unexpected EOF while looking for matching `"'
+bash: /home/amirali/.bashrc: line 20: syntax error: unexpected end of file
+bash-4.4$ d [K[Kcd P[Kproduct
+bash: cd: product: No such file or directory
+bash-4.4$ date +%s > productID.DATETIME.txt
+bash-4.4$ mv productID.DATETIME.txt productID.1666060284.txt
+bash-4.4$ ln -s productID.1666060284.txt num_symlink
+bash-4.4$ *****/roo[K[K[Khom[K[K[K[K/us[K[K[K[K[K[K[K[Kexit
+
+Script done on 2022-10-17 22:54:09-04:00
